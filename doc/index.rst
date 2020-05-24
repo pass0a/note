@@ -12,6 +12,8 @@
 
    vscode
    reStructuredText
+   vboxarchlinux
+   vscode
 
 索引与搜索
 ==================

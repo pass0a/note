@@ -15,7 +15,7 @@ vscode相关设置
     :linenos:
 
     ssh-keygen //如果已经生成过，可跳过
-    ssh-copy-id -i .ssh/id_rsa.pub  用户名字@192.168.x.xxx
+    ssh-copy-id -i ~/.ssh/id_rsa.pub  用户名字@192.168.x.xxx
     ssh 用户名字@192.168.x.xxx // 测试连接
 
 
@@ -84,6 +84,8 @@ ReadTheDoc设置
     conda activate py37
     pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
     pip install flake8 sphinx sphinx-autobuild sphinx_rtd_theme
+
+如果遇见找不到python的问题，可以通过ctrl+shift+p,输入python:select interpreter来指定python。
     
 本节设置请参考如下网址
 
