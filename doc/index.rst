@@ -14,6 +14,10 @@
    reStructuredText
    vboxarchlinux
    vscode
+   node
+   nodeservice
+   pgsql
+   python
 
 索引与搜索
 ==================
