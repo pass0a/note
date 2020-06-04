@@ -31,3 +31,10 @@ ubuntu上配置pgsql
     # sudo /etc/init.d/postgresql stop  关闭
     sudo /etc/init.d/postgresql restart  重启
     
+查询死锁
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. code-block:: shell
+    :linenos:
+
+    SELECT * FROM pg_stat_activity WHERE datname='flow' and waiting=true;
