@@ -18,6 +18,8 @@
    nodeservice
    pgsql
    python
+   poseidon3
+   tts
 
 索引与搜索
 ==================
