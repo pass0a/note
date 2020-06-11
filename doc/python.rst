@@ -11,3 +11,6 @@ conda更新所有包
     :linenos:
 
     conda update --strict-channel-priority --all
+
+numpy笔记
+~~~~~~~~~~~~~~~~~~~~~~~~

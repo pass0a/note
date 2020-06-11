@@ -9,3 +9,4 @@
 原理
 ~~~~~~~~~~~~~~~~~~~~~~
 给定数据点 :math:`\rho(x_i,y_i)`，其中 :math:`i=1,2,\cdots,m`。求近似曲线 :math:`y=\phi(x)` 。并且使得近似曲线 :math:`\phi(x)` 与 :math:`f(x)` 的偏差最小。近似曲线在点 :math:`\rho(x_i,y_i)` 处的偏差 :math:`\delta_i=\phi(x)-y,i=1,2,\cdots,m` 。
+

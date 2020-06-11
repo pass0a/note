@@ -13,7 +13,6 @@
    vscode
    reStructuredText
    vboxarchlinux
-   vscode
    node
    nodeservice
    pgsql
@@ -22,6 +21,7 @@
    tts
    docker
    esp32
+   ml
 
 索引与搜索
 ==================
