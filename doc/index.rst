@@ -20,6 +20,8 @@
    python
    poseidon3
    tts
+   docker
+   esp32
 
 索引与搜索
 ==================

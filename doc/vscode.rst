@@ -1,5 +1,5 @@
 vscode相关设置
-==================================
+=================================
 
 远程SSH编辑编译调试
 -----------------------------
@@ -71,8 +71,7 @@ vscode相关设置
 本节设置请参考如下网址
 
 1) `使用 VSCode 远程访问代码以及远程 GDB 调试 <https://warmgrid.github.io/2019/05/21/remote-debug-in-vscode-insiders.html>`_
-#) `清华大学pypi帮助页面 <https://mirrors.tuna.tsinghua.edu.cn/help/pypi/>`_
-#) `conda使用介绍 <https://zhuanlan.zhihu.com/p/57287956>`_
+
 
 ReadTheDoc设置
 --------------------------
